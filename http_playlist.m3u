@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",Btv World
+http://172.105.123.238:18002/play/a038
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SA TV
+http://tv.cloudcdn.me/live.ts?channelId=114&uid=8069&deviceMac=00:1A:79:0A:3B:2B
+#EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://nagoriktv.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffooterlogo.471164d3.jpg&w=1920&q=75",Nagorik Tv Talk Show
+http://tv.cloudcdn.me:80/live.ts?channelId=44155&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket Backup
+http://starshare.live:8080/live/Habib/Habib/2494.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket
+http://starshare.live:8080/live/Habib/Habib/158442.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://devcdn.24.co.za/files/supersport/203.svg",SuperSport Premier League
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 3
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763973
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 4
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763975
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 5
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/763977
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest?cb=20231020154659",Sport TV3
+http://cord-cutter.net:8080/live/70453597/56651433/167744.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg",Sport TV4
+http://serverinfo.one:8080/live/A4325544/443366/113377.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png",Sport TV5
+http://serverinfo.one:8080/live/A4325544/443366/113381.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/mihsignlogos/images/d/d6/Digi_Sport_4_%282018-.n.v.%29.png/revision/latest?cb=20240604111722",DIGI Sport 4
+http://extraott-iptv.com:88/live/0229477349/8104258135/17308.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://play-lh.googleusercontent.com/6TCr5szXcTESwKroTFZJTmLPGKJUZI0_zkVnkHCtUmxICZS_MNsZ867F3kATvFzoVrw",DD SPORTS HD
+http://172.105.123.238:18002/play/a03d
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",Times Now
+http://tv.cloudcdn.me/live.ts?channelId=204&uid=16068&deviceMac=00:1A:79:0A:3B:2B
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/images-removebg-preview%20(1).png",WOW kidz
+http://tv.cloudcdn.me/live.ts?channelId=91169&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png",Nickelodeon
+http://168.181.122.234:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest?cb=20230509232915",Disney XD
+http://119.156.26.155:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png",Baby TV
+http://168.181.122.234:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://seeklogo.com/images/C/ctc-kids-logo-D35CD4BEFF-seeklogo.com.png",CTC Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/images-removebg-preview%20(2).png",LD Anime
+http://tv.cloudcdn.me:80/live.ts?channelId=129416&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
+http://as12.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Commercial 92.0
+http://as32.digitalsynapsebd.com:8456/;stream.mp3
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Barishal 105.2
+http://as25.digitalsynapsebd.com:8620/;stream.mp3
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://peoplesradio.fm/wp-content/uploads/2015/12/pr_logo.png",Peoples Radio 91.6
+http://s3.myradiostream.com:14498/;stream.mp3
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Radio_Bhumi_logo.png",Radio Bhumi 92.8
+http://node-19.zeno.fm/yaqpcmhxe48uv?rj-ttl=5&rj-tok=AAABfgXkCqUAo83RYDSRIcag4Q
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/9ed84155030723.Y3JvcCw3NTIsNTg4LDEwMCwxMzc.jpg",Jago FM 94.4
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHaCwYVv0_znaIL8-h7p-dd1JEd1lqiJ0ZQ&s",Radio Capital 94.8
+http://str.radiocapital.fm:8000/stream
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s",Radio Padma 99.2
+http://cassini.shoutca.st:9109/radiopadma.mp3
