@@ -59,3 +59,26 @@ http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 http://str.radiocapital.fm:8000/stream
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s",Radio Padma 99.2
 http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF:-1 tvg-logo="https://example.com/logos/pogo_logo.png" group-title="Kids", Pogo
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/150483.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logos/nick_bangla_logo.png" group-title="Kids", Nick Bangla
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/150482.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logos/sony_yay_logo.png" group-title="Kids", Sony Yay
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/26187.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logos/netflix_kids_logo.png" group-title="Kids", Netflix Kids
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/308282.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logos/discovery_bangla_logo.png" group-title="Educational", Discovery Bangla
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/245966.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logos/gazi_tv_logo.png" group-title="Sports", Gazi TV
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/245901.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logos/sony_ten_5_hd_logo.png" group-title="Sports", Sony Ten 5 HD
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/167580.m3u8
+
+#EXTINF:-1 tvg-logo="https://example.com/logos/ptv_sports_logo.png" group-title="Sports", PTV Sports
+http://xtv.ooo:8080/live/03048885052RPT/03048885052RPT/217968.m3u8
