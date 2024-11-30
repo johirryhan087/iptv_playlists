@@ -111,6 +111,22 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://blastily.co/wp-content/uploads/2024/02/IMG_6622.png" group-title="Sports", SuperSport Grandstand
 https://top1.iosplayer.ru/tshttp/top1/eplayerSupersportGrandstand/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
+###Islamic
+#EXTINF:-1 tvg-id="IqraTV" tvg-name="Iqra TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nBvnmpyhwL5KcakLDxtGLeH_IHOT0Hmbag&usqp=CAU" group-title="Islamic", Iqra TV
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1 tvg-id="NoorTV" tvg-name="Noor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3wla0dHI7WhriRZhlZIu_SKmwAtVUM0hxg&usqp=CAU" group-title="Islamic", Noor TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXuI-WZw_JrenLNQypxtB6_L27Y0BGP1dg6Q&usqp=CAU" group-title="Islamic", Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Islamic", PEACE TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Islamic", PEACE TV ENGLISH
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.60c34221ff7d534aaf1b1377afd16793?rik=ONANrS2P1%2bcj1w&riu=http%3a%2f%2fwww.828i.com%2ffile%2fallimg%2f221023%2f1-221023122935O0.jpg&ehk=IVIxPv8pGf7918qxKKT56hENypuYCuQzUyzAQPFUy2Y%3d&risl=&pid=ImgRaw&r=0" group-title="Islamic", MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://islamchannelbangla.tv/wp-content/uploads/2024/04/Islam-channel-Bangla-logo.png" group-title="Islamic", Islam Channel Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+
 ###Indian
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfQOJ6iuEWfBMiUwVK1izVj0dH2XHvc9GFchFhtPBbvPoxkeL3KIgxb8&s=10" group-title="Indian", AMAR BANGLA 3
 https://
