@@ -23,17 +23,16 @@ https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD General", BANGLAVISION
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BD General", Rtv 1
-https://ythls-v3.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD General", BTV WORLD
 https://app.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yV30RC/IMG-20240126-084454.jpg" group-title="BD General", N TV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BD General", Rtv 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BD General", Rtv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD General", Boishakhi TV HD 1
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BD General", Deshi TV 1
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BD General", Deshi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN BANGLA
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BD General", ATN BANGLA
 https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
@@ -57,10 +56,6 @@ https://app.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2K4pf3/IMG-20240126-111558.png" group-title="BD General", CHANNEL UK
 https://app.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="BD General", SONY KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/AnUlFWN.jpg" group-title="BD General", Times 24 2
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjQgMjoyOTo0MyBQTSZoYXNoX3ZhbHVlPWl1b0pZeG5lMkhsTjJjNzBwZWdEZmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dD71xkF/atnnews.png" group-title="BD General", ATN NEWS
 https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l76jXPz.png" group-title="BD General", NEXUS TV
@@ -71,19 +66,15 @@ https://app.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD General", BANGLAVISION
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="BD General", RTV HD 3
-https://app.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BD General", CHANNEL I
 https://app.ncare.live/live-orgin/channeli-8-org.stream/lplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58JKfM.jpg" group-title="BD General", DESHI BiDESHI
-https://app.ncare.live/live-orgin/deshebideshe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD General", BTV WORLD
 https://app.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BD General", Deepto TV 1
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l76jXPz.png" group-title="BD General", NEXUS TV
 https://app.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png" group-title="BD General", Desh TV 2
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png" group-title="BD General", Desh TV
 https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BD General", MY TV HD
 https://mytvbangla.com/0.m3u8
