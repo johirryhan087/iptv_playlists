@@ -64,6 +64,10 @@ https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JbM3.jpg" group-title="BD General", NRB IPTV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uQWDW15WB-E9h2mRbV1w4UoeJ0eZofax7E0htXvwCOCuDNXcVMW-D6xOi6C2pRMhqu4&usqp=CAU" group-title="BD General", Asian TV
+https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+
+
 
 ###Kids
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Kids", DISCOVERY KIDS
