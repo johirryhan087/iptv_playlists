@@ -112,3 +112,33 @@ https://livetranscode.com/Minimax/index.m3u8
 http://cord-cutter.net:8080/live/70453597/56651433/14741.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="Kids", PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+###Sports
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports", MU TV 1
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pWPzQCMneqFi4OejoXK5_Vlvct7Gz3Q0zZproejxbk0ArqdYaGobzgl7&s=10" group-title="Sports", beIN sports Xtra 1
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rFhGnBXMkSdByI2fOWbNQx9Z8dJBN-cz1qfXM_IfB1wcm9FltUbAMUM&s=10" group-title="Sports", 360 Cricket
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0BVpDBIy4qnh4MXwwrIZFRGqzsj185_hiQ&usqp=CAU" group-title="Sports", FL sports
+https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I_gjgaJYlqDQGjAj96xh8S-5GZe_CZQK3w&usqp=CAU" group-title="Sports", Redbull Tv 1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s" group-title="Sports", Willow Cricket Xtra
+https://webuit.mizhls.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
+http://home-playtv.com:8080/Granav30/ZPETU@@2/218774
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="Sports", SuperSport Cricket
+https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo="https://blastily.co/wp-content/uploads/2024/02/IMG_6622.png" group-title="Sports", SuperSport Grandstand
+https://top1.iosplayer.ru/tshttp/top1/eplayerSupersportGrandstand/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="Sports", Bein Sports Extra 2
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png" group-title="Sports", RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png" group-title="Sports", EUROSPORT 1 HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="Sports", MU TV 2
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/is/286188/svg/red-bull-tv-seeklogo.com.svg" group-title="Sports", Redbull TV 2
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
