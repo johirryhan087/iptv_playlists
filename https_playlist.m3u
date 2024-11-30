@@ -692,3 +692,59 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1,DW English 📶_📺
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+### 3rd
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" tvg-name="MAASRANGA TV HD" group-title="BD",MAASRANGA TV HD
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" tvg-name="SOMOY TV" group-title="BD",SOMOY TV
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" tvg-name="Boishakhi" group-title="BD",Boishakhi Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" tvg-name="DEPTO BANGLA HD" group-title="BD",DEPTO BANGLA HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" tvg-name="RogeenGeentv" group-title="BD",RogeenTV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" tvg-name="RTV HD" group-title="BD",RTV HD
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" tvg-name="INDEPENDENT TV" group-title="BD",INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" tvg-name="JAMUNA TV" group-title="BD",JAMUNA TV
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" tvg-name="Discovery Hindi" group-title="BD",Discovery Hindi
+https://freeott.site/discovery/Discovery_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" tvg-name="MY TV HD" group-title="BD",MY TV HD
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sports-18-hd1-fifa-2022.jpg" tvg-name="SPORTS 18 HD " group-title="Sports",SPORTS 18 HD
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=1142
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" tvg-name="T SPORTS HD" group-title="Sports",T SPORTS HD
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=1142
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" tvg-name="9XM" group-title="Music",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/9f1a3d57-4134-4f4c-95ea-2cb142ac63f8/0.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" tvg-name="Bablle Balle" group-title="Music",Balle Balle HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/af274c57-7ef6-4505-aac4-d59366b94817/0.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" tvg-name="ZEE ZEST HD" group-title="Hindi",ZEE ZEST HD
+https://la.drmlive.au/tp/zee-348.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" tvg-name="STAR PLUS HD" group-title="Hindi",STAR PLUS HD
+https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" tvg-name="Star Bharat HD" group-title="Hindi",STAR BHARAT HD
+https://webott.viatv.com.np/v0t1/StarBharatHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" tvg-name="Andtv HD" group-title="Hindi",ANDTV HD
+https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/news-24.jpg" tvg-name="Star Gold HD" group-title="Movies",Star Gold HD
+https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" tvg-name="And Picture HD" group-title="Movies",And Picture HD
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" tvg-name="ZEE BANGLA HD" group-title="India Bangla",ZEE BANGLA HD
+https://shounwifi.net/api/zee_bangla.php
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" tvg-name="Colors Bangla HD" group-title="India Bangla",Colors Bangla HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" tvg-name="Colors Bangla HD" group-title="India Bangla",Colors Cineplex HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" tvg-name="Discovery Kids" group-title="Kids",Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" tvg-name="Hungama" group-title="Kids",Colors Cineplex HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" tvg-name="Sony ten 4 HD" group-title=",Sports",SONY TEN 4 HD
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=1142
+#EXTINF:-1 tvg-logo="" tvg-name="Star Sports 1 HD(Eng)" group-title=" Sports",Star Sports 1 HD (Eng)
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=1142
