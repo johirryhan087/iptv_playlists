@@ -19,7 +19,7 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.png" group-title="BD General", SOMOY TV
 https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="BD General", DBC NEWS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="BD General", DBC NEWS
 https://app.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD General", BANGLAVISION
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
@@ -38,7 +38,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="BD General", BIJOY TV
 https://app.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BD General", Deepto TV 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BD General", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BD General", MY TV HD
 https://mytvbangla.com/0.m3u8
@@ -70,8 +70,6 @@ https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/channeli-8-org.stream/lplaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="BD General", BTV WORLD
 https://app.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BD General", Deepto TV 1
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l76jXPz.png" group-title="BD General", NEXUS TV
 https://app.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png" group-title="BD General", Desh TV
