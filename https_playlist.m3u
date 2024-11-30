@@ -78,9 +78,5 @@ https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58JbM3.jpg" group-title="BD General", NRB IPTV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JsTvvbD/IMG-20240126-085423.png" group-title="BD General", ATN UK
-https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BD General", MY TV HD
 https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/64H4Wkx/IMG-20240126-091821.png" group-title="BD General", NTV UK
-https://app.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
