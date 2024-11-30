@@ -142,3 +142,15 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/is/286188/svg/red-bull-tv-seeklogo.com.svg" group-title="Sports", Redbull TV 2
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+###Indian
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfQOJ6iuEWfBMiUwVK1izVj0dH2XHvc9GFchFhtPBbvPoxkeL3KIgxb8&s=10" group-title="Indian", AMAR BANGLA 3
+https://
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGmDpPUuTlswQS_uSQZLh-sV81n6B1oxtOt4IkujBZwTJTvrwLA5OYi4&s=10" group-title="Indian", BANGLA PLUS 1
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzAvQln65nkTJigVaYVMKK-FWDYvaIaINww&usqp=CAU" group-title="Indian", MON TV BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXdL02riynqBhf3EFtQvS647yv0vxSdeVz55Z1_0pG_VEqhFOmutxbqxz&s=10" group-title="Indian", RUPOSHI BANGLA
+https://cdn3.pishow.tv/live/281/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="Indian", SONY KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
