@@ -32,7 +32,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD General", Boishakhi TV HD 1
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BD General", Deshi TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN BANGLA
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="BD General", ATN BANGLA
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BD General", ATN BANGLA
 https://app.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
