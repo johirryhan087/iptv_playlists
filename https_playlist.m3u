@@ -140,3 +140,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="Indian", SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/44KnPTzD/images-3.jpg",Enter 10 Bangla HD
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
+https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
