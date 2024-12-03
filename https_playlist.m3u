@@ -10,11 +10,11 @@ https://app.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="BD General", CHANNEL 24 HD
 https://app.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEgHkmhilVeJNeDvb-kDWozmoGL1s50QezUw&usqp=CAU" group-title="BD General", Ekattor TV
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="BD General", JAMUNA TV
 https://app.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EnxMKoBQvWpoqa6WchdaWz1ROQNzXjVbi_g_BFXEQPwf7PCc55WzbJY&s=10" group-title="BD General", Independent TV 1
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="BD General", NEWS 24 HD
 https://app.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.png" group-title="BD General", SOMOY TV
@@ -25,7 +25,7 @@ https://app.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 https://app.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" group-title="BD General", BTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BD General", Rtv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="BD General", R TV 
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD General", Boishakhi TV HD 1
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
