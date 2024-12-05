@@ -220,3 +220,63 @@ https://fifabd.xyz/OPLLX/play.m3u8?id=25989
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Pakistan", Hum TV
 https://fifabd.xyz/OPLLX/play.m3u8?id=25981
 ###Try default browser
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sports18.png", Sports 18
+https://sadman0.app.tc/test/sports18.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp1.png", Star Sports 1
+https://sadman0.app.tc/test/starsp1.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp2.png", Star Sports 2
+https://sadman0.app.tc/test/starsp2.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsportssetec.jpg", Star Sports Select 1
+https://sadman0.app.tc/test/starspsl1.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsps2.png", Star Sports Select 2
+https://sadman0.app.tc/test/starspsl2.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten1.png", Sony Sports 1
+https://sadman0.app.tc/test/sonysp1.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten2.png", Sony Sports 2
+https://sadman0.app.tc/test/sonysp2.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten3.png", Sony Sports 3
+https://sadman0.app.tc/test/sonysp3.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/Sony%20TEN%2051667728306.png", Sony Sports 5
+https://sadman0.app.tc/test/sonysp5.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjhJ-xMHhzPeYDme7yYPdvHSjZ6EiaAfP1obrnBWjhESWQyGViV2xBIkp&s=10", Eurosports
+https://sadman0.app.tc/test/eurosports.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha
+https://sadman0.app.tc/test/starjalsha.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla
+https://sadman0.app.tc/test/colorsbangla.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colors.jpg", Colors
+https://sadman0.app.tc/test/colors.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV
+https://sadman0.app.tc/test/zeetv.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema
+https://sadman0.app.tc/test/zeecinema.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlV9XWJCyWa4-fd46JwqZdJKWHHUPVMkEi2gtOKC2kbsOULNJC0P4lIao&s=10", And TV
+https://sadman0.app.tc/test/andtv.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/andpicture.png", And Pictures
+https://sadman0.app.tc/test/andpictures.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonyent.png", Set HD
+https://sadman0.app.tc/test/sethd.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starplus.png", Star Plus
+https://sadman0.app.tc/test/starplus.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/stargold.png", Star Gold
+https://sadman0.app.tc/test/stargold.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max
+https://sadman0.app.tc/test/sonymax.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlYMpr3oHun4Upw6fHxVOhzEJDEy9xSLJDv6zDatZ1GzRaySaGivXSRO1&s=10", Nick HD+
+https://sadman0.app.tc/test/nickhd.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjS_FPfLIYGtA81h0IdTZVS2hS2ARYyaL4A&s", Nick
+https://sadman0.app.tc/test/nick.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-logo="http://toffe.top/images/nickjr.png", Nick jr
+https://sadman0.app.tc/test/nickjr.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s", Hungama
+https://sadman0.app.tc/test/hungama.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp", Discovery Kids
+https://sadman0.app.tc/test/dk.m3u8
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/discovery.png", Discovery
+https://sadman0.app.tc/test/discovery.m3u8
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSuvvjyBkV7gROSbjyblBMSd2JHmFPhMb9tRdKIeWgi-jiFyrtWiiZNo&s=10", Discovery Science
+https://sadman0.app.tc/test/science.m3u8
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/nationalgeo.png", National Geographic
+https://sadman0.app.tc/test/natgeo.m3u8
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/natgeo.png", National Geographic Wild
+https://sadman0.app.tc/test/natgeowild.m3u8
