@@ -1,21 +1,23 @@
+#EXTM3U
+
 ###SPORTS
-START SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",START SPORTS 1
 https://fifabd.xyz/OPLLX/play.m3u8?id=109986
-START SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",START SPORTS 2
 https://fifabd.xyz/OPLLX/play.m3u8?id=109987
-START SPORTS  SELECT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",START SPORTS SELECT 1
 https://fifabd.xyz/OPLLX/play.m3u8?id=109988
-START SPORTS SELECT 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",START SPORTS SELECT 2
 https://fifabd.xyz/OPLLX/play.m3u8?id=109994
-SONY SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",SONY SPORTS 1
 https://fifabd.xyz/OPLLX/play.m3u8?id=109983
-SONY SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",SONY SPORTS 2
 https://fifabd.xyz/OPLLX/play.m3u8?id=109984
-SONY SPORTS 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",SONY SPORTS 3
 https://fifabd.xyz/OPLLX/play.m3u8?id=109985
-SONY SPORTS 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",SONY SPORTS 5
 https://fifabd.xyz/OPLLX/play.m3u8?id=109992
-EURO SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/com/ry42Nhk/1000010471.png" group-title="Sports",EURO SPORTS
 https://fifabd.xyz/OPLLX/play.m3u8?id=206324
 
 
