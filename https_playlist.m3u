@@ -111,32 +111,6 @@ https://livetranscode.com/Minimax/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BjWTMLy/images-1.png" group-title="Kids",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", pogo
-https://fifabd.xyz/OPLLX/play.m3u8?id=150483
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Nick
-https://fifabd.xyz/OPLLX/play.m3u8?id=150482
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Nick jr.
-https://fifabd.xyz/OPLLX/play.m3u8?id=153156
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Nick FHD
-https://fifabd.xyz/OPLLX/play.m3u8?id=76722
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Wow comedy
-https://fifabd.xyz/OPLLX/play.m3u8?id=311774
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Tom & Jerry
-https://fifabd.xyz/OPLLX/play.m3u8?id=329247
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Wow action
-https://fifabd.xyz/OPLLX/play.m3u8?id=314753
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Discovery kids
-https://fifabd.xyz/OPLLX/play.m3u8?id=76723
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Disney HD
-https://fifabd.xyz/OPLLX/play.m3u8?id=167551
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Cartoon Network
-https://fifabd.xyz/OPLLX/play.m3u8?id=150478
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Nick - Sonic
-https://fifabd.xyz/OPLLX/play.m3u8?id=34011
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Kids", Sony yay
-https://fifabd.xyz/OPLLX/play.m3u8?id=245959
 
 ###Sports
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png" group-title="Sports", T Sports
@@ -155,18 +129,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://blastily.co/wp-content/uploads/2024/02/IMG_6622.png" group-title="Sports", SuperSport Grandstand
 https://top1.iosplayer.ru/tshttp/top1/eplayerSupersportGrandstand/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Ten 1 hd
-https://fifabd.xyz/OPLLX/play.m3u8?id=109983
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Ten 2 hd
-https://fifabd.xyz/OPLLX/play.m3u8?id=109984
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Ten 3 hd
-https://fifabd.xyz/OPLLX/play.m3u8?id=109985
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Sony Sports 5
-https://fifabd.xyz/OPLLX/play.m3u8?id=109992
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", Star Sports 1 Hindi
-https://fifabd.xyz/OPLLX/play.m3u8?id=109986
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Sports", GAZI TV
-https://fifabd.xyz/OPLLX/play.m3u8?id=245901
 
 ###Islamic
 #EXTINF:-1 tvg-id="IqraTV" tvg-name="Iqra TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nBvnmpyhwL5KcakLDxtGLeH_IHOT0Hmbag&usqp=CAU" group-title="Islamic", Iqra TV
@@ -199,24 +161,3 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/N0sxVy1G/Sony-Aath-new.png",Sony Aath
 https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Indian", Sony sub
-https://fifabd.xyz/OPLLX/play.m3u8?id=221256
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Indian", Star jalsha
-https://fifabd.xyz/OPLLX/play.m3u8?id=245898
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Indian", Jalsha movie
-https://fifabd.xyz/OPLLX/play.m3u8?id=245900
-
-###Pakistan
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Pakistan", aur life
-https://fifabd.xyz/OPLLX/play.m3u8?id=167885
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Pakistan", Discover Pakistan
-https://fifabd.xyz/OPLLX/play.m3u8?id=103684
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Pakistan", PTV Home
-https://fifabd.xyz/OPLLX/play.m3u8?id=221342
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Pakistan", PTV Home HD
-https://fifabd.xyz/OPLLX/play.m3u8?id=103703
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Pakistan", ARY Digital HD
-https://fifabd.xyz/OPLLX/play.m3u8?id=25989
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ry42Nhk/1000010471.png" group-title="Pakistan", Hum TV
-https://fifabd.xyz/OPLLX/play.m3u8?id=25981
-###Try default browser
